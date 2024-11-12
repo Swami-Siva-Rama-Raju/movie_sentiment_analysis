@@ -1,0 +1,4 @@
+xgboost
+streamlit
+nltk
+scikit-learn
